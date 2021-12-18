@@ -13,3 +13,21 @@
 * [BIP 52](https://github.com/bitcoin/bips/blob/master/bip-0052.mediawiki)
 * [PoWx site](https://powx.org)
 * [PoWx twitter](https://twitter.com/_powx)
+
+## Contributors
+
+Mike Dubrovsky [Co-Founder]
+Roman Zhytar [SW Developer]
+Anton Kovalov [SW Developer]
+Egor Shymko [SW Developer]
+Nikita Koypish [SW Developer]
+Vsevolod Hulchuk [SW Developer]
+Mustafa Hammood [HW Prototype Developer; System]
+Jaspreet Joha [HW Prototype Developer; Simulations]
+Stephen Lin [HW Prototype Developer; Simulations]
+Sunil Kochikar Pai [HW Prototype Developer; Matrix Mult Core]
+Marshall Ball [Cryptography; HeavyHash]
+Lucianna Kiffer [Cryptoeceonomics]
+Guy Corem [Sage Advice]
+Diedrik Vermeulen [Silicon Photonics Advisor; System Architecture and Link Budgets]
+Bogdan Penkovsky [Co-Founder]
