@@ -11,6 +11,8 @@
 ## Resources
 
 * [BIP 52](https://github.com/bitcoin/bips/blob/master/bip-0052.mediawiki)
+* [White paper](https://www.opticalbitcoin.com/wp-content/uploads/2021/12/White-Paper.pdf)
+* [oPoW FAQ](https://www.powx.org/opow)
 * [PoWx site](https://powx.org)
 * [PoWx twitter](https://twitter.com/_powx)
 
